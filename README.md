@@ -39,7 +39,7 @@ The PSNR and SSIM metrics are visualized below:
 
 ![PSNR Score](https://github.com/user-attachments/assets/a8a44852-5226-4514-a239-7d25b16845e3)
 
-![SSIM](https://github.com/user-attachments/assets/9adbe940-2fca-4ac2-95ff-0435bd8a73d7)
+![SSIM](https://github.com/user-attachments/assets/d23ddf15-04af-43e6-ab60-9bd2fa16cd8e)
 
 ## 🔮 Future Scope
 - Extend generation to **coronal and transverse images**.
