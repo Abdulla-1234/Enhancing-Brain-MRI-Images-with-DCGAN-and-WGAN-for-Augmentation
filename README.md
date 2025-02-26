@@ -31,8 +31,7 @@ Below is a comparison between **real MRI images** and **GAN-generated images**:
 
 | Real MRI Image | DCGAN Generated | WGAN Generated |
 |---------------|----------------|----------------|
-| ![Real MRI](https://github.com/user-attachments/assets/6220c516-02f3-48de-935f-8e01d8a00b35)
- | ![DCGAN](https://github.com/user-attachments/assets/da4111ec-ef13-44ff-a840-18869e57c2cf)
+| ![Real_image](https://github.com/user-attachments/assets/7acf88ae-3c1b-4804-9faa-175ec9d91e9e) | ![DCGAN](https://github.com/user-attachments/assets/da4111ec-ef13-44ff-a840-18869e57c2cf)
  | ![image](https://github.com/user-attachments/assets/e40c7f4f-7b78-450d-88cb-bb2b252f36fe) |
 
 The PSNR and SSIM metrics are visualized below:
