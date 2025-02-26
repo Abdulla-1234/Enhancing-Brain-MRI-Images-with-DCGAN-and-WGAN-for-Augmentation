@@ -36,7 +36,7 @@ Below is a comparison between **real MRI images** and **GAN-generated images**:
 The PSNR and SSIM metrics are visualized below:
 | PNSR score | SSIM score |
 |---------------|----------------|
-| ![PNSR](https://github.com/user-attachments/assets/919347dd-7aaf-4210-af77-f4dd74b4d87f) | ![SSIM](https://github.com/user-attachments/assets/d23ddf15-04af-43e6-ab60-9bd2fa16cd8e) |
+| ![PNSR](https://github.com/Abdulla-1234/Enhancing-Brain-MRI-Images-with-DCGAN-and-WGAN-for-Augmentation/blob/main/Images/pnsr.png) | ![SSIM](https://github.com/user-attachments/assets/d23ddf15-04af-43e6-ab60-9bd2fa16cd8e) |
 
 ## 🔮 Future Scope
 - Extend generation to **coronal and transverse images**.
