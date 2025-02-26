@@ -19,7 +19,7 @@ MRI image analysis plays a crucial role in medical diagnostics, but acquiring la
    - **Peak Signal-to-Noise Ratio (PSNR)**
    - **Structural Similarity Index Measure (SSIM)**
 
-![image](https://github.com/user-attachments/assets/a55a489f-20d2-4caa-9a8a-c257c2608274)
+![GAN Architecture](https://github.com/Abdulla-1234/Enhancing-Brain-MRI-Images-with-DCGAN-and-WGAN-for-Augmentation/blob/main/Images/GAN%20Architecture.png)
 
 
 ## 📊 Results
@@ -31,12 +31,12 @@ Below is a comparison between **real MRI images** and **GAN-generated images**:
 
 | Real MRI Image | DCGAN Generated | WGAN Generated |
 |---------------|----------------|----------------|
-| ![Real_image](https://github.com/user-attachments/assets/1434db68-bd18-41c3-9122-d386aa81462b) | ![DCGAN](https://github.com/user-attachments/assets/da4111ec-ef13-44ff-a840-18869e57c2cf) | ![WCGAN](https://github.com/user-attachments/assets/e40c7f4f-7b78-450d-88cb-bb2b252f36fe) |
+| ![Real_image](https://github.com/Abdulla-1234/Enhancing-Brain-MRI-Images-with-DCGAN-and-WGAN-for-Augmentation/blob/main/Images/Real_image.png) | ![DCGAN](https://github.com/Abdulla-1234/Enhancing-Brain-MRI-Images-with-DCGAN-and-WGAN-for-Augmentation/blob/main/Images/DCGAN.png) | ![WCGAN](https://github.com/Abdulla-1234/Enhancing-Brain-MRI-Images-with-DCGAN-and-WGAN-for-Augmentation/blob/main/Images/wcgan.png) |
 
 The PSNR and SSIM metrics are visualized below:
 | PNSR score | SSIM score |
 |---------------|----------------|
-| ![PNSR](https://github.com/Abdulla-1234/Enhancing-Brain-MRI-Images-with-DCGAN-and-WGAN-for-Augmentation/blob/main/Images/pnsr.png) | ![SSIM](https://github.com/user-attachments/assets/d23ddf15-04af-43e6-ab60-9bd2fa16cd8e) |
+| ![PNSR](https://github.com/Abdulla-1234/Enhancing-Brain-MRI-Images-with-DCGAN-and-WGAN-for-Augmentation/blob/main/Images/pnsr.png) | ![SSIM](https://github.com/Abdulla-1234/Enhancing-Brain-MRI-Images-with-DCGAN-and-WGAN-for-Augmentation/blob/main/Images/ssim.png) |
 
 ## 🔮 Future Scope
 - Extend generation to **coronal and transverse images**.
